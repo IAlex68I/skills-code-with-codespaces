@@ -36,7 +36,7 @@ GitHub offers a range of features to help your development team customize a code
 - Use VS Code to develop code.
 - Customize the codespace with custom images.
 - Manage the codespace.
-- Agregado por mi
+* Agregado por mi
 
 To begin developing using GitHub Codespaces, you can create a codespace from a template or from any branch or commit in a repository. When you create a codespace from a template, you can start from a blank template or choose a template suitable for the work you're doing.
 
